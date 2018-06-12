@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:9-alpine
 
 MAINTAINER Tobias Kuendig <tobias@offline.ch>
 
